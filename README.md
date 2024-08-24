@@ -1,5 +1,5 @@
 # Chocolate-Quake
-Publication of the Visual Studio 2019+ Build of Quake 
+Publication of the Visual Studio 2019+ Build of Quake, originally known as "Handmade Quake" by Philip Buuck. 
 
 Project was rebuilt using Visual Studio 2019 and 2022. This compile was done on a PC using the full set of C++ tool packages available from Visual Studio, though the only required package is the default "Desktop Development with C++" workload. Once the repo has been downloaded or cloned, the Visual Studio Solution can be found in the WinQuake\HandmadeQuake folder.
 
