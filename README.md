@@ -7,7 +7,7 @@ A note on compiling: Visual Studio from 2015 onward will attempt to build in x64
 
 After compiling the solution from the WinQuake/HandmadeQuake folder; if you wish to patch the game to play the soundtrack, my recommended download can be found here: https://www.moddb.com/games/quake/addons/glquake-winquake-ogg-playback . You can also look online for other solutions to add audio, or pop in the Quake CD if you own a copy and give that a shot!
 
-Unfortunately, the original videos that Philip did seems to have been removed from youtube, but I was able to find a compiled list of most of the series. I am going to see about something relatively painless like a google drive or dropbox link to access the VODS since they are too large to upload to GitHub.
+Unfortunately, the original videos that Philip did seems to have been removed from youtube, but I was able to find a playlist of most of the series. I am going to see about something relatively painless like a google drive or dropbox link to access the VODS since they are too large to upload to GitHub. I may also try to mirror them on youtube if all else fails.
 
 Final notes, this repo does not contain any .pak files, those must be obtained independently. Your best bet for a free option would be to obtain the Episode 1 Shareware, which is freely available online. Once the project has been built, inside of the WinQuake\HandmadeQuake folder, a new folder called Debug will show up. Inside of that folder is the HandmadeQuake exe. Lastly, it should be said that this is not meant to be an advanced source port, but rather a learning tool for building and compling your own version of the original software. In particular, to learn without the snags and pitfalls that the original code brings today.
 
